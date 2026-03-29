@@ -8,4 +8,4 @@ In any case, this a personal collection of useful prompts for the LLMs to make t
 
 You're welcome to explore and use these prompts, if so desired, but I believe they might be oddly specific at times for a general user.
 
-Have a good day.
+Have a good day!
